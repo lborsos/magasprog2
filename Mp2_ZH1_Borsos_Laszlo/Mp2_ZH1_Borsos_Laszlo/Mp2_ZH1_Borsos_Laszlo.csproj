@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{FB0CD952-C7B1-4EC6-B625-903076929F67}</ProjectGuid>
+    <ProjectGuid>{D07C6C55-3A83-4829-A746-72C806D8C925}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Ingatlanok</RootNamespace>
-    <AssemblyName>Ingatlanok</AssemblyName>
+    <RootNamespace>Mp2_ZH1_Borsos_Laszlo</RootNamespace>
+    <AssemblyName>Mp2_ZH1_Borsos_Laszlo</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,17 +43,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AllapotEnum.cs" />
-    <Compile Include="Ingatlan.cs" />
+    <Compile Include="HaztartasiBolt.cs" />
+    <Compile Include="HaztartasiGep.cs" />
+    <Compile Include="Mosogep.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SzinEnum.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="2024 MP2 ZH_LEV.pdf" />
     <None Include="App.config" />
-    <None Include="ingatlanok.csv">
+    <None Include="haztartasigepek_pont.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Include="MP2_ZH1_2022_03_05_1130.pdf" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

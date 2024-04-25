@@ -1,0 +1,9 @@
+F:\Laci_Work\CSharp\Eger\Magasprog2\Mp2_ZH1_Borsos_Laszlo\Mp2_ZH1_Borsos_Laszlo\obj\Debug\Mp2_ZH1_Borsos_Laszlo.csproj.AssemblyReference.cache
+F:\Laci_Work\CSharp\Eger\Magasprog2\Mp2_ZH1_Borsos_Laszlo\Mp2_ZH1_Borsos_Laszlo\obj\Debug\Mp2_ZH1_Borsos_Laszlo.csproj.SuggestedBindingRedirects.cache
+F:\Laci_Work\CSharp\Eger\Magasprog2\Mp2_ZH1_Borsos_Laszlo\Mp2_ZH1_Borsos_Laszlo\obj\Debug\Mp2_ZH1_Borsos_Laszlo.csproj.CoreCompileInputs.cache
+F:\Laci_Work\CSharp\Eger\Magasprog2\Mp2_ZH1_Borsos_Laszlo\Mp2_ZH1_Borsos_Laszlo\bin\Debug\haztartasigepek_pont.csv
+F:\Laci_Work\CSharp\Eger\Magasprog2\Mp2_ZH1_Borsos_Laszlo\Mp2_ZH1_Borsos_Laszlo\bin\Debug\Mp2_ZH1_Borsos_Laszlo.exe.config
+F:\Laci_Work\CSharp\Eger\Magasprog2\Mp2_ZH1_Borsos_Laszlo\Mp2_ZH1_Borsos_Laszlo\bin\Debug\Mp2_ZH1_Borsos_Laszlo.exe
+F:\Laci_Work\CSharp\Eger\Magasprog2\Mp2_ZH1_Borsos_Laszlo\Mp2_ZH1_Borsos_Laszlo\bin\Debug\Mp2_ZH1_Borsos_Laszlo.pdb
+F:\Laci_Work\CSharp\Eger\Magasprog2\Mp2_ZH1_Borsos_Laszlo\Mp2_ZH1_Borsos_Laszlo\obj\Debug\Mp2_ZH1_Borsos_Laszlo.exe
+F:\Laci_Work\CSharp\Eger\Magasprog2\Mp2_ZH1_Borsos_Laszlo\Mp2_ZH1_Borsos_Laszlo\obj\Debug\Mp2_ZH1_Borsos_Laszlo.pdb
