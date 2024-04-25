@@ -1,0 +1,8 @@
+F:\Laci_Work\CSharp\Eger\Magasprog2\Proba1\Proba1\bin\Debug\Proba1.exe.config
+F:\Laci_Work\CSharp\Eger\Magasprog2\Proba1\Proba1\bin\Debug\Proba1.exe
+F:\Laci_Work\CSharp\Eger\Magasprog2\Proba1\Proba1\bin\Debug\Proba1.pdb
+F:\Laci_Work\CSharp\Eger\Magasprog2\Proba1\Proba1\obj\Debug\Proba1.csproj.AssemblyReference.cache
+F:\Laci_Work\CSharp\Eger\Magasprog2\Proba1\Proba1\obj\Debug\Proba1.csproj.SuggestedBindingRedirects.cache
+F:\Laci_Work\CSharp\Eger\Magasprog2\Proba1\Proba1\obj\Debug\Proba1.csproj.CoreCompileInputs.cache
+F:\Laci_Work\CSharp\Eger\Magasprog2\Proba1\Proba1\obj\Debug\Proba1.exe
+F:\Laci_Work\CSharp\Eger\Magasprog2\Proba1\Proba1\obj\Debug\Proba1.pdb

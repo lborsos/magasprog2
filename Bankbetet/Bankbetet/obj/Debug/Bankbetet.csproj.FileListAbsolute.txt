@@ -1,0 +1,9 @@
+F:\Laci_Work\CSharp\Eger\Magasprog2\Bankbetet\Bankbetet\bin\Debug\Bankbetet.exe.config
+F:\Laci_Work\CSharp\Eger\Magasprog2\Bankbetet\Bankbetet\bin\Debug\Bankbetet.exe
+F:\Laci_Work\CSharp\Eger\Magasprog2\Bankbetet\Bankbetet\bin\Debug\Bankbetet.pdb
+F:\Laci_Work\CSharp\Eger\Magasprog2\Bankbetet\Bankbetet\obj\Debug\Bankbetet.csproj.AssemblyReference.cache
+F:\Laci_Work\CSharp\Eger\Magasprog2\Bankbetet\Bankbetet\obj\Debug\Bankbetet.csproj.SuggestedBindingRedirects.cache
+F:\Laci_Work\CSharp\Eger\Magasprog2\Bankbetet\Bankbetet\obj\Debug\Bankbetet.csproj.CoreCompileInputs.cache
+F:\Laci_Work\CSharp\Eger\Magasprog2\Bankbetet\Bankbetet\obj\Debug\Bankbetet.exe
+F:\Laci_Work\CSharp\Eger\Magasprog2\Bankbetet\Bankbetet\obj\Debug\Bankbetet.pdb
+F:\Laci_Work\CSharp\Eger\Magasprog2\Bankbetet\Bankbetet\bin\Debug\bankbetetek.csv
